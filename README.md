@@ -1,4 +1,4 @@
-# Proyecti-o-EDA-PYTHON
+# Proyecto EDA-PYTHON
 1.Se ha realizado un análisis que tiene como objetivo explorar y unificar los datos de la última campaña de marketing captación de préstamos. Se han integrado datos demográficos de clientes (años 2012, 2013 y 2014) con indicadores económicos y resultados de contacto para identificar el perfil de cliente con mayor probabilidad de éxito.
 
 2. Proceso de Transformación y Limpieza
